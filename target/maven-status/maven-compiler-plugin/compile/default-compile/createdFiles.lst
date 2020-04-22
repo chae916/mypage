@@ -1,0 +1,9 @@
+hotel\AbstractEvent.class
+hotel\Application.class
+hotel\ResultEnded.class
+hotel\MyviewRepository.class
+hotel\PolicyHandler.class
+hotel\ResultChanged.class
+hotel\config\kafka\KafkaProcessor.class
+hotel\Myview.class
+hotel\MyviewViewHandler.class
